@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/workofEKam/first-react-project",
+  "homepage": "https://workofEKam.github.io/first-react-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
